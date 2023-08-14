@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohammed Al-Ma
+# Mohammed Al-Mansori
 
 I am a third-year computer science student at Cairo University.<br/>
 I am passionate about programming and building real applications<br/>
