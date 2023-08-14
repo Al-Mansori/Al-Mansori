@@ -70,7 +70,7 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 
 <div align="center">
 
-## Follow me on
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Follow me on
 
 <p>
   <a href="https://www.linkedin.com/in/mohammed-al-mansori/">
