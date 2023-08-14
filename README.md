@@ -3,7 +3,6 @@
 # Mohammed Al-Mansori
 
 I am a third-year computer science student at Cairo University.<br/>
-I am passionate about programming and building real applications<br/>
 You can explore my skills and contact me below<br/>
 
 [Download My Resume](https://drive.google.com/file/d/14LcqAWKroKcxvihch8n0rv24gvM-aZhB/view?usp=sharing)
