@@ -23,7 +23,7 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 
 <div align="center">
 
-## Programming languages
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> Programming languages
 
 <p>
   <img height="50" src="./icons/programming languages/cpp.svg">&nbsp;&nbsp;&nbsp;&nbsp;
