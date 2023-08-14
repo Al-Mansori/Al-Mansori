@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohammed Al-Mansori
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Mohammed Al-Mansori
 
 I am a third-year computer science student at Cairo University.<br/>
 You can explore my skills and contact me below<br/>
