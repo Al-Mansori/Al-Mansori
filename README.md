@@ -13,7 +13,7 @@ You can explore my skills and contact me below<br/>
 
 <div align="center">
 
-## Education
+## 📖 Education
 
 Cairo University, Bachelor of Science in Computer Science (expected graduation: 2025)
 
@@ -37,7 +37,7 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 
 <div align="center">
 
-## Databases
+## 🗃 Databases
 
 <p>
   <img height="50" src="./icons/databases/sql-server.svg">&nbsp;&nbsp;&nbsp;&nbsp;
