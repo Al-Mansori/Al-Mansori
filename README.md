@@ -2,6 +2,7 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Mohammed Al-Mansori
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Al-Mansori&label=Profile%20views&color=0e75b6&style=flat" alt="Al-Mansori" /> </p>
 I am a third-year computer science student at Cairo University.<br/>
 You can explore my skills and contact me below<br/>
 
@@ -109,7 +110,6 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 </tr>
 </table>
 <!--- stats (end) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Al-Mansori&label=Profile%20views&color=0e75b6&style=flat" alt="Al-Mansori" /> </p>
 
 <!--- trophy (start) -->
 <!--- trophy (end) -->
