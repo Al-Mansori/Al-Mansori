@@ -109,6 +109,7 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 </tr>
 </table>
 <!--- stats (end) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Al-Mansori&label=Profile%20views&color=0e75b6&style=flat" alt="Al-Mansori" /> </p>
 
 <!--- trophy (start) -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Al-Mansori&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="Al-Mansori" /></a> </p>
