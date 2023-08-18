@@ -80,8 +80,8 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
   <a href="mailto:elmnsrim@gmail.com">
     <img height="40" src="./icons/contact/gmail.svg">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
- **elmnsrim@gmail.com**
 </p>
+ **elmnsrim@gmail.com**
 
 </div>
 
