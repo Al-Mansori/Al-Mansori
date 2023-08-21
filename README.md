@@ -57,7 +57,8 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
   <img height="50" src="./icons/Technologies/html5.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/Technologies/css3.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/Technologies/Git.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/Technologies/bootstrap.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <img height="50" src="./icons/Technologies/bootstrap.svg">&nbsp;&nbsp;&nbsp;&nbsp; -->
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="50"/>
   <img height="50" src="./icons/Technologies/nodejs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/Technologies/expressjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/Technologies/Axios.svg">&nbsp;&nbsp;&nbsp;&nbsp;
