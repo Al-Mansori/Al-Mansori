@@ -6,8 +6,8 @@
 I am a third-year computer science student at Cairo University.<br/>
 You can explore my skills and contact me below<br/>
 
-[Download My Resume]([https://drive.google.com/file/d/14LcqAWKroKcxvihch8n0rv24gvM-aZhB/view?usp=sharing](https://drive.google.com/file/d/1U82u4Lz5OOT3Im0TtRIo1dNrJzrWYTqP/view?usp=sharing)
 [Download My Resume](https://drive.google.com/file/d/14LcqAWKroKcxvihch8n0rv24gvM-aZhB/view?usp=sharing)
+
 </div>
 
 ---
