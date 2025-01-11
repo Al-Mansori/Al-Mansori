@@ -3,7 +3,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Mohammed Al-Mansori
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Al-Mansori&label=Profile%20views&color=0e75b6&style=flat" alt="Al-Mansori" /> </p>
-I am a fourth-year computer science student at Cairo University.<br/>
+I am a computer science student at Cairo University.<br/>
 You can explore my skills and contact me below<br/>
 
 [Download My Resume](https://drive.google.com/file/d/1U82u4Lz5OOT3Im0TtRIo1dNrJzrWYTqP/view?usp=sharing)
